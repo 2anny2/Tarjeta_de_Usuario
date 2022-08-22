@@ -1,0 +1,42 @@
+.container {
+    width: 600px;
+    height: 300px;
+    margin: 20px auto;
+    background-color: whitesmoke;
+    border: 2px grey solid ;
+    display: flex;
+    font-family: 'DynaPuff', cursive;
+}
+
+.user{
+    margin-left: 20px;
+    margin-top: 60px;
+    padding: 5px;
+    background-color: whitesmoke;
+    border-radius: 90%;
+    position: fixed;
+}
+
+.info2 {
+    background-color: #17a2b8;
+    height: 98px;
+    width: 600px;
+}
+
+h1{
+    margin-top: 130PX;
+}
+
+H1, h3, p{
+    margin-left: 20px;
+}
+
+a{
+    color: #3a81e8;
+}
+
+p{
+    margin-top: -10px;
+}
+
+
